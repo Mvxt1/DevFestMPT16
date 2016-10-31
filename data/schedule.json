@@ -1,0 +1,85 @@
+[{
+    "date": "2016-11-25",
+    "dateReadable": "Novembro 25",
+    "tracks": [{
+        "title": "Universidade Sao Tomas"
+    }, {
+        "title": "Conference hall"
+    }, {
+        "title": "Workshops hall"
+    }],
+    "timeslots": [{
+        "startTime": "09:00",
+        "endTime": "09:30",
+        "sessions": [
+            [132]
+        ]
+    }, {
+        "startTime": "09:30",
+        "endTime": "10:00",
+        "sessions": [
+            [136]
+        ]
+    }, {
+        "startTime": "10:05",
+        "endTime": "11:00",
+        "sessions": [
+            [139]
+        ]
+    }, {
+        "startTime": "11:00",
+        "endTime": "11:45",
+        "sessions": [
+            [109]
+        ]
+    }, {
+        "startTime": "11:45",
+        "endTime": "12:45",
+        "sessions": [
+            [129]
+        ]
+    }, {
+        "startTime": "12:45",
+        "endTime": "13:10",
+        "sessions": [
+            [133]
+        ]
+    }, {
+        "startTime": "13:10",
+        "endTime": "15:10",
+        "sessions": [
+            [107]
+        ]
+    }, {
+        "startTime": "15:10",
+        "endTime": "15:45",
+        "sessions": [
+            [134]
+        ]
+    }, {
+        "startTime": "15:50",
+        "endTime": "17:00",
+        "sessions": [
+            [131]
+        ]
+    }, {
+        "startTime": "17:05",
+        "endTime": "17:20",
+        "sessions": [
+            [119]
+        ]
+    }, {
+        "startTime": "17:20",
+        "endTime": "17:30",
+        "sessions": [
+            [112]
+        ]
+    }, {
+        "startTime": "17:30",
+        "endTime": "17:45",
+        "sessions": [
+            [106]
+        ]
+    }]
+}]
+    
