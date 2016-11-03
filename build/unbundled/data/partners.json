@@ -1,0 +1,27 @@
+[
+  {
+    "title": "",
+    "logos": [
+      {
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/logos/Vodacom-logo-2.svg"
+      },
+      {
+        "name": "GDG[x]",
+        "url": "https://github.com/gdg-x",
+        "logoUrl": "../images/logos/0SB6MMh01.svg"
+      },
+      {
+        "name": "Google",
+        "url": "https://www.google.com.ua/intl/en/about/",
+        "logoUrl": "../images/logos/yfoWAaF01.svg"
+      },
+      {
+        "name": "GDG[x]",
+        "url": "https://github.com/gdg-x",
+        "logoUrl": "../images/logos/c0u9DPuiaA.svg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Organizadores GDG-MPT",
+    "members": [
+      {
+        "name": "Oleh Zasadnyy",
+        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+OlehZasadnyy",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/oleh.zasadnyy",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/ozasadnyy",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://o.zasadnyy.com/",
+            "name": "Blog"
+          }
+        ],
+        "title": "Website and sponsors"
+      },
+      {
+        "name": "Sofiya Huts",
+        "photoUrl": "/images/people/sofiya_huts.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+SofiaHuts",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/sophie.huts.7",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Social and media"
+      },
+      {
+        "name": "Vitaliy Zasadnyy",
+        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/zasadnyy",
+            "name": "Linkedin"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/zasadnyy",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://v.zasadnyy.com/",
+            "name": "Blog"
+          }
+        ],
+        "title": "Speakers"
+      },
+      {
+        "name": "Marta Maxymiak",
+        "photoUrl": "/images/people/marta_maxymiak.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/104036874811391520583",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/marta.maxymiak",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Party and happiness"
+      },
+      {
+        "name": "Ostap Andrusiv",
+        "photoUrl": "/images/people/ostap_andrusiv.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://google.com/+OstapAndrusiv",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/ostap.andrusiv",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/p1f",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://andrusiv.com/",
+            "name": "Blog"
+          }
+        ],
+        "title": "Sponsors"
+      },
+      {
+        "name": "Vasylyna Mytsak",
+        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+ВасилинаМицак",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/vasylyna.mytsak",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Party and happiness"
+      }
+    ]
+  }
+]

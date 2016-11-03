@@ -2,18 +2,18 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Rosário Fernandes",
-        "title": "Desenvolvedor Android",
+        "name": "Mete Atamel",
+        "title": "Developer Advocate",
         "company": "Google",
         "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Maputo, Moçambique",
-        "photoUrl": "/images/people/ros.jpg",
+        "country": "London, United Kingdom",
+        "photoUrl": "/images/people/mete_atamel.jpg",
         "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
         "bio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
         "tags": [
-            "Android",
-            "Firebase",
-            "JAVA"
+            "Cloud",
+            "Compute Engine",
+            "gRPC"
         ],
         "badges": [
 
@@ -39,18 +39,19 @@
     "2": {
         "id": 2,
         "featured": true,
-        "name": "Mário Júnior",
-        "title": "Software Engineer",
-        "company": "Millenium BIM",
+        "name": "Yonatan Levin",
+        "title": "Android Evangelist & Developer",
+        "company": "Gett",
         "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Inhambane,Moçambique",
-        "photoUrl": "/images/people/mj.jpg",
-        "shortBio": "hates limitations. He can build just about anythingn...",
-        "bio": "",
+        "country": "Tel Aviv, Israel",
+        "photoUrl": "/images/people/yonatan_levin.jpg",
+        "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
+        "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
         "tags": [
-            "JavaEE",
-            "AngularJS",
-            "WEB"
+            "Android",
+            "Doze",
+            "Mobile UX",
+            "Entrepreneurship"
         ],
         "badges": [
             {
@@ -80,18 +81,18 @@
     "3": {
         "id": 3,
         "featured": true,
-        "name": "Romildo Cumbe",
-        "title": "Software Engineer",
-        "company": "Technoplus",
+        "name": "Sascha Wolter",
+        "title": "Senior Developer Evangelist Connected Home",
+        "company": "Duetsche Telekom AG - Group Innovation+",
         "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Inhambane,Moçambique",
-        "photoUrl": "/images/people/romildo.jpg",
-        "shortBio": "",
-        "bio": "",
+        "country": "Munich and Dusseldorf, Germany",
+        "photoUrl": "/images/people/sascha_wolter.jpg",
+        "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
+        "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
         "tags": [
-            "JavaEE",
-            "ZK",
-            "AngularJS"
+            "Web",
+            "IoT",
+            "Smart Home"
         ],
         "badges": [
 
@@ -117,45 +118,18 @@
     "4": {
         "id": 4,
         "featured": true,
-        "name": "Armando Mondlane",
-        "title": "Software Developer",
-        "company": "MozDevz",
+        "name": "Rustem Arzymbetov",
+        "title": "Software Engineer",
+        "company": "Google",
         "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Maputo, Moçmabique",
-        "photoUrl": "/images/people/armando.jpg",
-        "shortBio": "",
-        "bio": "",
+        "country": "Mountain View, United States",
+        "photoUrl": "/images/people/rustem_arzymbetov.jpg",
+        "shortBio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
+        "bio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
         "tags": [
             "Cloud",
-            "PHP",
-            "JS"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/102117493667558776856"
-            }
-        ]
-    },
-    "5": {
-        "id": 5,
-        "featured": true,
-        "name": "Mauro Banze",
-        "title": "Software Developer",
-        "company": "Freelance Developer",
-        "companyLogo": "/images/logos/gdg-lviv.svg",
-        "country": "Maputo, Moçmabique",
-        "photoUrl": "/images/people/banze.jpg",
-        "shortBio": "",
-        "bio": "",
-        "tags": [
-            "Android",
-            "Design",
-            "Java"
+            "Performance",
+            "TensorFlow"
         ],
         "badges": [
 

@@ -1,0 +1,19 @@
+{
+ "hosting": {
+    "public": "build/unbundled",
+    "cleanUrls": true,
+    "rewrites": [
+      {
+        "source": "**/*",
+        "destination": "/index.html"
+      }
+    ],
+    "ignore": [
+      "/test/**",
+      "bower.json",
+      "database.rules.json",
+      "firebase.json",
+      "README.md"
+    ]
+  }
+}
