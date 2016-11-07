@@ -1,6 +1,6 @@
 [
   {
-    "title": "Organizadores GDG-MPT",
+    "title": "Organizadores GDG-Maputo",
     "members": [
       {
         "name": "Oleh Zasadnyy",
@@ -13,7 +13,7 @@
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
+            "link": "https://www.facebook.com/osvaldoomaria",
             "name": "Facebook"
           },
           {
@@ -30,24 +30,24 @@
         "title": "Website and sponsors"
       },
       {
-        "name": "Sofiya Huts",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
+        "name": "Rosário Pereira Fernandes",
+        "photoUrl": "/images/people/Ros.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
+            "link": "https://plus.google.com/+RosarioPereiraFernandes",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
+            "link": "https://www.facebook.com/rosariopfernandes",
             "name": "Facebook"
           }
         ],
         "title": "Social and media"
       },
       {
-        "name": "Vitaliy Zasadnyy",
+        "name": "Melvin Chongo",
         "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
         "socials": [
           {
@@ -69,8 +69,8 @@
         "title": "Speakers"
       },
       {
-        "name": "Marta Maxymiak",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
+        "name": "Ivan Bila",
+        "photoUrl": "/images/people/ivan.jpg",
         "socials": [
           {
             "icon": "gplus",
