@@ -2,37 +2,37 @@
     "1": {
         "id": 1,
         "featured": true,
-        "name": "Rosário Fernandes",
+        "name": "Rosário Pereira Fernandes",
         "title": "Desenvolvedor Android",
         "company": "Google",
         "companyLogo": "/images/logos/gdg-lviv.svg",
         "country": "Maputo, Moçambique",
-        "photoUrl": "/images/people/ros.jpg",
-        "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
-        "bio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+        "photoUrl": "/images/people/Ros.jpg",
+        "shortBio": "Rosário is an Android Developer, Blog Writer and Public Speaker...",
+        "bio": "Rosário is an Android Developer, Blog Writer and Public Speaker. He alsos works well with Firebase and Java",
         "tags": [
             "Android",
             "Firebase",
-            "JAVA"
+            "Java"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/meteatamel/"
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/rosariopfernandes/"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/meteatamel/"
+                "link": "https://twitter.com/_rpfernandes/"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/meteatamel/"
+                "link": "https://github.com/rosariopfernandes/"
             }
         ]
     },
