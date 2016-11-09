@@ -3,8 +3,8 @@
     "title": "Organizadores GDG-MPT",
     "members": [
       {
-        "name": "Oleh Zasadnyy",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "name": "Osvaldo Maria",
+        "photoUrl": "/images/people/osvaldo.jpg",
         "socials": [
           {
             "icon": "gplus",
@@ -30,7 +30,7 @@
         "title": "Website and sponsors"
       },
       {
-        "name": "Sofiya Huts",
+        "name": "Rosário Fernandes",
         "photoUrl": "/images/people/sofiya_huts.jpg",
         "socials": [
           {
@@ -47,7 +47,7 @@
         "title": "Social and media"
       },
       {
-        "name": "Vitaliy Zasadnyy",
+        "name": "Melvin Chongo",
         "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
         "socials": [
           {
@@ -69,7 +69,7 @@
         "title": "Speakers"
       },
       {
-        "name": "Marta Maxymiak",
+        "name": "Ivan Bila  ",
         "photoUrl": "/images/people/marta_maxymiak.jpg",
         "socials": [
           {
@@ -83,7 +83,7 @@
             "name": "Facebook"
           }
         ],
-        "title": "Party and happiness"
+        "title": "Graficos"
       },
       {
         "name": "Ostap Andrusiv",
@@ -110,24 +110,7 @@
             "name": "Blog"
           }
         ],
-        "title": "Sponsors"
-      },
-      {
-        "name": "Vasylyna Mytsak",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
+        "title": "Website"
       }
     ]
   }
