@@ -127,7 +127,7 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
+        "text": "",
         "url": "mailto:devfest@google.com"
       }
     ]
@@ -183,7 +183,7 @@
       "caption": "tracks"
     }
   ],
-  "hashtag": "dfua",
+  "hashtag": "DFMPT",
   "social": [
     {
       "name": "gplus",
