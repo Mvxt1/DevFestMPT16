@@ -4694,6 +4694,16 @@ this.currentTarget=t,this.defaultPrevented=!1,this.eventPhase=Event.AT_TARGET,th
         <span class="location">{{localize('location-address-short')}}</span>
       </div>
     </paper-toolbar>
+    <nav>
+      <paper-menu class="navigation list" attr-for-selected="name" selected="{{pageData.page}}" selected-class="selected">
+        <template is="dom-repeat" items="[[app.data.navigation]]" as="nav">
+          <a class="navigation-link" name="[[nav.route]]" href$="[[nav.permalink]]" on-tap="closeDrawer">{{localize(nav.route)}}</a>
+        </template>
+        <a class="navigation-link" href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">[[localize('buy-ticket')]]
+          <iron-icon class="open-in-new" icon="open-in-new"></iron-icon>
+        </a>
+      </paper-menu>
+    </nav>
 
   </template>
 
@@ -4779,6 +4789,11 @@ this.currentTarget=t,this.defaultPrevented=!1,this.eventPhase=Event.AT_TARGET,th
               </paper-tab>
             </template>
           </paper-tabs>
+          <div class="action-button-wrapper" layout="" horizontal="" center-center="">
+            <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+              <paper-button class="action-button">[[localize('buy-ticket')]]</paper-button>
+            </a>
+          </div>
         </template>
       </div>
     </app-toolbar>
@@ -4925,7 +4940,9 @@ this.currentTarget=t,this.defaultPrevented=!1,this.eventPhase=Event.AT_TARGET,th
               <iron-image class="logo" src="/images/logo-light.svg" sizing="contain" alt="GDG DevFest Ukraine 2016"></iron-image>
               <h3 class="dates">{{localize('dates')}}</h3>
               <h2 class="motto">{{localize('motto')}}</h2>
-            </div>
+              <div>
+              <h2 class="motto"><a href="https://goo.gl/forms/IcXN7sX32IqB9whS2" target="_blank">Clique aqui para participar</a></h2>
+              </div>
           </div>
         </animatable-content>
         <animatable-content name="blog">
