@@ -114,5 +114,4 @@
   <script>!function(){"use strict";Polymer({is:"featured-people",behaviors:[HOVERBOARD.LocalizeBehavior,HOVERBOARD.UtilsBehavior],properties:{people:{type:Array,observer:"_peopleChanged"}},_peopleChanged:function(){for(var e=this._toArray(this.people),r=[],o=0,t=e.length;o<t;o++)e[o].featured&&r.push(e[o]);this.featuredPeople=this._randomOrder(r).slice(0,4)}})}();</script>
 
 </dom-module>
-
 </body></html>

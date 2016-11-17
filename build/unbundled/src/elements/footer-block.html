@@ -166,7 +166,7 @@
 
     <div class="container">
       <div class="footer-content">
-        <iron-image class="GDGMaputo_logo" src="/images/GDGMaputo_logo.svg" sizing="contain" alt="[[app.data.organizer.name]]"></iron-image>
+        <iron-image class="GDGMaputo_logo" src="/images/GDGMaputo_logo.png" sizing="contain" alt="[[app.data.organizer.name]]"></iron-image>
         <paper-button class="footer-backtotop" on-tap="scrollToTop" noink="">
           [[localize('back-to-top')]]
           <iron-icon icon="icons:expand-less"></iron-icon>
@@ -244,5 +244,4 @@
 
   <script>!function(){"use strict";Polymer({is:"footer-block",behaviors:[HOVERBOARD.LocalizeBehavior,HOVERBOARD.ShareBehavior],scrollToTop:function(e){HOVERBOARD.Elements.Template.backToTop(e)},_changeLanguage:function(e){HOVERBOARD.Analytics.trackEvent("language","select",e.target.label)},_getLinkTarget:function(e){return e?"_blank":""},_showLanguageToggle:function(e){return e&&e.length>1}})}();</script>
 </dom-module>
-
 </body></html>
