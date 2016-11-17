@@ -48,22 +48,12 @@
       },
       {
         "name": "Melvin Chongo",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
+        "photoUrl": "/images/people/M.jpg",
         "socials": [
           {
-            "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/zasadnyy",
-            "name": "Linkedin"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://v.zasadnyy.com/",
-            "name": "Blog"
+          "icon": "facebook",
+            "link": "https://www.facebook.com/melviin.c.dougie",
+            "name": "Facebook"
           }
         ],
         "title": "Website"
@@ -85,32 +75,17 @@
         ],
         "title": "Graficos"
       },
-      {
-        "name": "Ostap Andrusiv",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
+    {
+       "name": "Peter Gabriel",
+        "photoUrl": "/images/people/Peter.jpeg",
         "socials": [
           {
-            "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
-            "name": "Google+"
-          },
-          {
             "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
+            "link": "https://www.facebook.com/petergguirrugo",
             "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/p1f",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://andrusiv.com/",
-            "name": "Blog"
           }
         ],
-        "title": "Website"
+        "title": "Designer"
       }
     ]
   }

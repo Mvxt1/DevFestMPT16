@@ -3,24 +3,24 @@
     "title": "",
     "logos": [
       {
+        "name": "Vodacom",
+        "url": "https://www.vm.co.mz/",
+        "logoUrl": "../images/logos/Vodacom-logo-2.png"
+      },
+      {
+        "name": "USTM",
+        "url": "https://ustm.ac.mz/",
+        "logoUrl": "../images/logos/MZ-Universidade-Sao-Tomas-de-Mocambique.png"
+      },
+      {
         "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/Vodacom-logo-2.svg"
+        "url": "https://developers.google.com/groups/",
+        "logoUrl": "../images/logos/google.png"
       },
       {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/0SB6MMh01.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/yfoWAaF01.svg"
-      },
-      {
-        "name": "GDG[x]",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/c0u9DPuiaA.svg"
+        "name": "Netherland Embassy",
+        "url": "mozambique.nlembassy.org/",
+        "logoUrl": "../images/logos/logo-netherlands embassy.png"
       }
     ]
   }

@@ -267,7 +267,7 @@
       .company-logo {
         margin: 0 auto 10px;
         width: 110px;
-        height: 25px;
+        height: 5px;
       }
     </style>
 
@@ -325,5 +325,6 @@
   <script>!function(){"use strict";Polymer({is:"speakers-page",behaviors:[Polymer.NeonSharedElementAnimatableBehavior,HOVERBOARD.PageBehavior,HOVERBOARD.UtilsBehavior,HOVERBOARD.LocalizeBehavior],properties:{route:{type:Object,notify:!0},routeData:{type:Object},speakerRouteData:{type:Object},speakers:{type:Object},_selectedSpeaker:Object,animationConfig:{type:Object,value:function(){return{entry:[{name:"fade-in-animation",animation:"fade-in-animation",node:this,timing:{delay:500}}],exit:[{name:"fade-out-animation",animation:"fade-out-animation",node:this}]}}}},observers:["_routePageChanged(routeData.speakerId)"],listeners:{"iron-overlay-closed":"_resetSpeakerIdParam"},_routePageChanged:function(e){if(e&&this.selected){var a=this.speakers[e];a&&Polymer.RenderStatus.afterNextRender(this,function(){this._selectedSpeaker=a,this.$.speakerDetails.open()}.bind(this))}},_updateCascadedNodes:function(){var e=Polymer.dom(this.root).querySelectorAll("[cascaded]"),a=Array.prototype.slice.call(e);this.animationConfig.entry.push({name:"cascaded-animation",animation:"transform-animation",transformFrom:"translate3d(0, 100%, 0)",timing:{delay:500},nodes:a}),this.animationConfig.exit.push({name:"cascaded-animation",animation:"transform-animation",transformTo:"translate3d(0, 100%, 0)",nodes:a})},_getCustomStyleValue:function(e){return"background-color: "+this.getComputedStyleValue("--"+this._generateClass(e))||this.getComputedStyleValue("--general")},_resetSpeakerIdParam:function(){this.set("routeData.speakerId",null)}})}();</script>
 
 </dom-module>
+
 
 </body></html>
