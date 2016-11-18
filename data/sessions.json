@@ -7,7 +7,7 @@
   },
   "139": {
     "id": 139,
-    "title": "Orientações de Material Design Montion e algumas implementações no Android",
+    "title": "Orientações de Material Design Motion e a sua implentação no Android (Trilha 1)",
     "description": "",
     "language": "Portugues"
   },
@@ -26,8 +26,8 @@
   "136": {
     "id": 136,
     "title": "Abertura do GDG DevFest 2016",
-    "description": "",
-    "language": "Portugues",
+    "description": "Abertura oficial do evento. Saudações dos organizadores e patrocionadores.",
+    "language": "Português",
     "image": "/images/backgrounds/opening.jpg"
   },
   "135": {
@@ -39,47 +39,50 @@
   "134": {
     "id": 134,
     "title": "Pausa para o lanche",
-    "description": "",
+    "description": "Coooomida!!!",
     "image": "/images/backgrounds/coffee-break.jpg"
   },
   "133": {
     "id": 133,
-    "title": "Do something cool/relax",
-    "description": "",
-    "image": ""
+    "title": "Intervalo",
+    "description": "Pequeno intervalo para bater-papo com os outros desenvolvedores e relaxar.",
+    "image": "/images/backgrounds/2015_2.jpg"
   },
   "132": {
     "id": 132,
     "title": "Chegada dos participantes",
-    "description": "",
+    "description": "Obtenha o seu crachá e camisete, e aproveite para conversar com alguns desenvolvedores.",
     "image": "/images/backgrounds/registration.jpg"
   },
   "131": {
     "id": 131,
-    "title": "Introducao a Web Apps Progressivas",
+    "title": "Introducao à Web Apps Progressivas",
     "description": "",
     "language": "Portugues",
     "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained"
   },
   "130": {
     "id": 130,
-    "title": "Designing an Android Wear Application",
-    "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-    "speakers": [
-      26
-    ],
-    "language": "English",
-    "complexity": "Intermediate",
+    "title": "Firebase para Web - Codelab (Trilha 2)",
+    "description": "Vamos aprender a utilizar o firebase numa aplicação Web.",
+    "language": "Português",
+    "complexity": "Intermediário",
     "tags": [
-      "Android"
+      "Web", "Javascript", "Firebase"
     ]
   },
   "129": {
     "id": 129,
-    "title": "Introducao ao Firebase para Android",
-    "description": "",
+    "title": "Firebase para Android - Codelab (Trilha 1)",
+    "description": "Vamos aprender a utilizar o Firebase Realtime Database e Firebase Authentication numa aplicação Android.",,
+    "speakers": [
+      1
+    ],
     "language": "Portugues",
-    "presentation":"https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android"
+    "complexity": "Intermediário",
+    "tags": [
+      "Android", "Firebase", "Java"
+    ]
   },
   "128": {
     "id": 128,
@@ -96,17 +99,16 @@
   },
   "127": {
     "id": 127,
-    "title": "ExoPlayer: Media playback without pain (almost...)",
-    "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
+    "title": "Introdução ao Firebase",
+    "description": "Hoje em dia Desenvolvedores passam por vários desafios quando se trata de desenvolver aplicativos ou websites. Muitos têm tempo e recursos limitados, outros têm que gerir várias ferramentas ao mesmo tempo e construir infrastructura suficiente para manter a sua aplicação em pé. Firebase consegue simplificar todo este processo. Nesta secção, vamos aprender o que é o Firebase e quais são as facilidades que ele traz.",
     "speakers": [
-      24
+      1
     ],
-    "language": "Ukrainian",
-    "complexity": "Intermediate",
+    "language": "Português",
+    "complexity": "Intermédio",
     "tags": [
-      "Android"
-    ],
-    "presentation":"https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot"
+      "Android", "Firebase", "Web"
+    ]
   },
   "126": {
     "id": 126,
@@ -191,8 +193,9 @@
   "119": {
     "id": 119,
     "title": "Code in the Dark Session",
-    "description": "",
-    "presentation":"https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers"
+    "description": "15 minutos, notepad e a imagem de um website. Isso é tudo o que você tem para desenhar uma réplica do website da imagem. A réplica mais semelhante à imagem ganha o prêmio.",
+    "tags":[
+      "Web"]
   },
   "118": {
     "id": 118,
@@ -279,8 +282,8 @@
   },
   "112": {
     "id": 112,
-    "title": "Deliberacao e anuncio dos resultados",
-    "description": ""
+    "title": "Deliberação e anúncio dos resultados",
+    "description": "Anúncio do vencedor do Code in the Dark e últimas considerações dos organizadores"
   },
   "111": {
     "id": 111,
@@ -333,16 +336,17 @@
   },
   "107": {
     "id": 107,
-    "title": "Framework minimalista AngularJS para Java EE",
-    "description": "",
-    "language": "Portugues"
+    "title": "Hi Framework (Trilha 2)",
+    "description": "Hi é um framework que traz a simplicidade do AngularJS para o Java Enterprise Edition.",
+    "language": "Portugues",
+    "tags":["Web", "Java EE", "AngularJS"]
   },
   "106": {
     "id": 106,
-    "title": "Divulgacao",
-    "description": "",
-    "language": "Portugues",
-    "presentation":"https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story"
+    "title": "Fim do Evento",
+    "description": "Saída dos participantes",
+    "language": "Portugues"
+    
   },
   "105": {
     "id": 105,
