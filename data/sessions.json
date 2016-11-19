@@ -7,7 +7,7 @@
   },
   "139": {
     "id": 139,
-    "title": "Orientações de Material Design Motion e a sua implentação no Android (Trilha 1)",
+    "title": "Orientacoes de Material Design Motion e a sua implementacao no Android (Trilha 1)",
     "description": "",
     "language": "Portugues"
   },
@@ -26,8 +26,8 @@
   "136": {
     "id": 136,
     "title": "Abertura do GDG DevFest 2016",
-    "description": "Abertura oficial do evento. Saudações dos organizadores e patrocionadores.",
-    "language": "Português",
+    "description": "Abertura oficial do evento. Saudacoes dos organizadores e patrocionadores.",
+    "language": "Portugues",
     "image": "/images/backgrounds/opening.jpg"
   },
   "135": {
@@ -51,22 +51,21 @@
   "132": {
     "id": 132,
     "title": "Chegada dos participantes",
-    "description": "Obtenha o seu crachá e camisete, e aproveite para conversar com alguns desenvolvedores.",
+    "description": "Obtenha o seu cracha e camisete, e aproveite para conversar com alguns desenvolvedores.",
     "image": "/images/backgrounds/registration.jpg"
   },
   "131": {
     "id": 131,
-    "title": "Introducao à Web Apps Progressivas",
+    "title": "Introducao a Web Apps Progressivas",
     "description": "",
-    "language": "Portugues",
-    "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained"
+    "language": "Portugues"
   },
   "130": {
     "id": 130,
     "title": "Firebase para Web - Codelab (Trilha 2)",
-    "description": "Vamos aprender a utilizar o firebase numa aplicação Web.",
-    "language": "Português",
-    "complexity": "Intermediário",
+    "description": "Vamos aprender a utilizar o firebase numa aplicacao Web.",
+    "language": "Portugues",
+    "complexity": "Intermediario",
     "tags": [
       "Web", "Javascript", "Firebase"
     ]
@@ -74,12 +73,12 @@
   "129": {
     "id": 129,
     "title": "Firebase para Android - Codelab (Trilha 1)",
-    "description": "Vamos aprender a utilizar o Firebase Realtime Database e Firebase Authentication numa aplicação Android.",,
+    "description": "Vamos aprender a utilizar o Firebase Realtime Database e Firebase Authentication numa aplicacao Android.",
     "speakers": [
       1
     ],
     "language": "Portugues",
-    "complexity": "Intermediário",
+    "complexity": "Intermediario",
     "tags": [
       "Android", "Firebase", "Java"
     ]
@@ -99,13 +98,13 @@
   },
   "127": {
     "id": 127,
-    "title": "Introdução ao Firebase",
-    "description": "Hoje em dia Desenvolvedores passam por vários desafios quando se trata de desenvolver aplicativos ou websites. Muitos têm tempo e recursos limitados, outros têm que gerir várias ferramentas ao mesmo tempo e construir infrastructura suficiente para manter a sua aplicação em pé. Firebase consegue simplificar todo este processo. Nesta secção, vamos aprender o que é o Firebase e quais são as facilidades que ele traz.",
+    "title": "Introducao ao Firebase",
+    "description": "Hoje em dia Desenvolvedores passam por varios desafios quando se trata de desenvolver aplicativos ou websites. Muitos tem tempo e recursos limitados, outros tem que gerir varias ferramentas ao mesmo tempo e construir infrastructura suficiente para manter a sua aplicacao em pe. Firebase consegue simplificar todo este processo. Nesta seccao, vamos aprender o que e o Firebase e quais sao as facilidades que ele traz.",
     "speakers": [
       1
     ],
-    "language": "Português",
-    "complexity": "Intermédio",
+    "language": "Portugues",
+    "complexity": "Intermedio",
     "tags": [
       "Android", "Firebase", "Web"
     ]
@@ -193,7 +192,7 @@
   "119": {
     "id": 119,
     "title": "Code in the Dark Session",
-    "description": "15 minutos, notepad e a imagem de um website. Isso é tudo o que você tem para desenhar uma réplica do website da imagem. A réplica mais semelhante à imagem ganha o prêmio.",
+    "description": "15 minutos, notepad e a imagem de um website. Isso e tudo o que voce tem para desenhar uma replica do website da imagem. A replica mais semelhante a imagem ganha o premio.",
     "tags":[
       "Web"]
   },
@@ -282,8 +281,8 @@
   },
   "112": {
     "id": 112,
-    "title": "Deliberação e anúncio dos resultados",
-    "description": "Anúncio do vencedor do Code in the Dark e últimas considerações dos organizadores"
+    "title": "Deliberacao e anúncio dos resultados",
+    "description": "Anuncio do vencedor do Code in the Dark e ultimas consideracoes dos organizadores"
   },
   "111": {
     "id": 111,
@@ -337,14 +336,14 @@
   "107": {
     "id": 107,
     "title": "Hi Framework (Trilha 2)",
-    "description": "Hi é um framework que traz a simplicidade do AngularJS para o Java Enterprise Edition.",
+    "description": "Hi \U00E9 um framework que traz a simplicidade do AngularJS para o Java Enterprise Edition.",
     "language": "Portugues",
     "tags":["Web", "Java EE", "AngularJS"]
   },
   "106": {
     "id": 106,
     "title": "Fim do Evento",
-    "description": "Saída dos participantes",
+    "description": "Saida dos participantes",
     "language": "Portugues"
     
   },
