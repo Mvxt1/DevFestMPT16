@@ -8,7 +8,7 @@
         "country": "Maputo, Moçambique",
         "photoUrl": "/images/people/Ros.jpg",
         "shortBio": "Rosário is an Android Developer, Blog Writer and Public Speaker...",
-        "bio": "Rosário is an Android Developer, Blog Writer and Public Speaker. He alsos works well with Firebase and Java",
+        "bio": "Rosário is an Android Developer, Blog Writer and Public Speaker. He also works well with Firebase and Java. 18 years old, from Maputo, he became a developer in 2014",
         "tags": [
             "Android",
             "Firebase",
@@ -43,19 +43,14 @@
         "company": "Millenium BIM",
         "country": "Inhambane,Moçambique",
         "photoUrl": "/images/people/mj.jpg",
-        "shortBio": "hates limitations. He can build just about anythingn...",
-        "bio": "",
+        "shortBio": "hates limitations. He can build just about anything...",
+        "bio": "This guy hates limitations. He can build just about anything. If he feels a limitation in a technology, he doesn't look for a workaround, he dumps it and builds his own technology. Results-driven, fun and enthusiastic developer. Super sain? Not really. A sentence: Break that chair and build a boat. 23 years  old, also from Inhambane, coding since 2008, degree on Informatica de Gestao from Unitiva, works at Millenium BIM.",
         "tags": [
             "JavaEE",
             "AngularJS",
             "WEB"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/yonatan-levin.html"
-            }
         ],
         "socials": [
             {
@@ -83,8 +78,8 @@
         "company": "Technoplus",
         "country": "Inhambane,Moçambique",
         "photoUrl": "/images/people/romildo.jpg",
-        "shortBio": "",
-        "bio": "",
+        "shortBio": "This is a dude with the craziest of the ideas...",
+        "bio": "This is a dude with the craziest of the ideas.He codes sometimes. But not sure I can describe him as just a programmer. A sentence: MAGUGU over Procrastinação. 21 years old, from Inhambane, coding since 2011, no degree, working at Technoplus.",
         "tags": [
             "JavaEE",
             "ZK",
@@ -149,7 +144,7 @@
         "bio": "",
         "tags": [
             "Android",
-            "Design",
+            "Material Design",
             "Java"
         ],
         "badges": [

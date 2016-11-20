@@ -3485,7 +3485,7 @@ this.currentTarget=t,this.defaultPrevented=!1,this.eventPhase=Event.AT_TARGET,th
       .gdg-logo {
         margin: 10px 10px 0 0;
         height: 24px;
-        width: 120px;
+        width: 220px;
         display: block;
       }
 
@@ -3606,7 +3606,7 @@ this.currentTarget=t,this.defaultPrevented=!1,this.eventPhase=Event.AT_TARGET,th
 
     <div class="container">
       <div class="footer-content">
-        <iron-image class="gdg-logo" src="/images/gdg-logo.svg" sizing="contain" alt="[[app.data.organizer.name]]"></iron-image>
+        <iron-image class="gdg-logo" src="/images/logo-light.svg" sizing="contain" alt="[[app.data.organizer.name]]"></iron-image>
         <paper-button class="footer-backtotop" on-tap="scrollToTop" noink="">
           [[localize('back-to-top')]]
           <iron-icon icon="icons:expand-less"></iron-icon>
@@ -4791,7 +4791,7 @@ this.currentTarget=t,this.defaultPrevented=!1,this.eventPhase=Event.AT_TARGET,th
           </paper-tabs>
           <div class="action-button-wrapper" layout="" horizontal="" center-center="">
             <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-              <paper-button class="action-button">aa [[localize('buy-ticket')]]</paper-button>
+              <paper-button class="action-button">[[localize('buy-ticket')]]</paper-button>
             </a>
           </div>
         </template>
@@ -4940,12 +4940,11 @@ this.currentTarget=t,this.defaultPrevented=!1,this.eventPhase=Event.AT_TARGET,th
               <iron-image class="logo" src="/images/logo-light.svg" sizing="contain" alt="GDG DevFest Ukraine 2016"></iron-image>
               <h3 class="dates">{{localize('dates')}}</h3>
               <h2 class="motto">{{localize('motto')}}</h2>
-              <div class="action-buttons">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised="">{{localize('buy-ticket')}}</paper-button>
+              <div>
+              <h2 class="motto"><a href="https://goo.gl/forms/IcXN7sX32IqB9whS2" target="_blank">Clique aqui para participar</a></h2>
               </div>
-            </div>
           </div>
-        </animatable-content>
+        
         <animatable-content name="blog">
           <div class="container">
             <h3 class="page-title" hidden$="{{app.headerSettings.title}}">{{localize('blog')}}</h3>
@@ -4973,10 +4972,10 @@ this.currentTarget=t,this.defaultPrevented=!1,this.eventPhase=Event.AT_TARGET,th
             <h3 class="page-title">{{localize('cod')}}</h3>
           </div>
         </animatable-content>
-      </neon-animated-pages>
-    </app-toolbar>
+      
+    
 
-  </template>
+  </div></animatable-content></neon-animated-pages></app-toolbar></template>
 
   <script>!function(){"use strict";Polymer({is:"header-content",behaviors:[HOVERBOARD.LocalizeBehavior],properties:{app:{type:Object},schedule:Array,selectedDay:{type:Number,notify:!0,value:0}},_openVideo:function(){HOVERBOARD.Elements.Template.openVideo(this.app.data.pages.home.headerSettings.video.title,this.app.data.pages.home.headerSettings.video.youtubeId,!0),HOVERBOARD.Analytics.trackEvent("video","watch",this.app.data.pages.home.headerSettings.video.title)},_scrollToTickets:function(){HOVERBOARD.Analytics.trackEvent("ticket","buy_click","header"),Polymer.AppLayout.scroll({top:HOVERBOARD.Elements.Tickets.getBoundingClientRect().top,behavior:"smooth",target:HOVERBOARD.Elements.Scroller})}})}();</script>
 
