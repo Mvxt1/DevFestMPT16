@@ -9,7 +9,10 @@
     "id": 139,
     "title": "Arquitectura de aplicações Android (Trilha 1)",
     "description": "",
-    "language": "Portugues"
+    "language": "Portugues",
+    "speakers":[
+      9
+    ]
   },
   "191": {
     "id": 191,
@@ -21,13 +24,25 @@
     "id": 192,
     "title": "Tornando a web mais eficiente com Progressive Web Apps",
     "description": "",
-    "language": "Portugues"
+    "language": "Portugues",
+    "tags": [
+      "Web", "PWA", "javascript"
+    ],
+    "speakers":[
+  7,10
+]
   },
   "193": {
     "id": 193,
     "title": "Desenvolvendo Aplicações Hibridas com Ionic Framework",
     "description": "",
-    "language": "Portugues"
+    "language": "Portugues",
+    "tags": [
+      "IOS", "Android", "Ionic"
+    ],
+    "speakers":[
+      8
+    ]
   },
   "138": {
     "id": 138,
@@ -77,6 +92,9 @@
     "title": "Material Design Motion guidelines e sua implementação no Android (Trilha 1)",
     "description": "",
     "language": "Portugues",
+    "tags": [
+      "Android", "Material Design", "Design"
+    ],
     "speakers":[
       5
     ]
@@ -87,13 +105,13 @@
     "description": "",
     "language": "Portugues",
     "speakers":[
-      2
+      2,3
     ]
   },
   "130": {
     "id": 130,
     "title": "Introdução ao Angular2 (Trilha 2)",
-    "description": "Vamos aprender a utilizar o Angular2.",
+    "description": "Breve introducao ao Angular2.",
     "language": "Português",
     "complexity": "Intermediário",
     "speakers":[
@@ -369,16 +387,18 @@
   "107": {
     "id": 107,
     "title": "Deploy de aplicações Java EE no google Platform (Trilha 2)",
-    "description": "Hi é um framework que traz a simplicidade do AngularJS para o Java Enterprise Edition.",
-    "language": "Portugues",
-    "tags":["Web", "Java EE", "AngularJS"]
+    "description": "",
+    "tags":["Web", "Java EE", "Grails"],
+    "speakers":[
+      6
+    ]
   },
   "106": {
     "id": 106,
     "title": "Discurso Final",
     "description": "",
     "language": "Portugues"
-    
+
   },
   "105": {
     "id": 105,

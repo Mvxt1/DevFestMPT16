@@ -51,11 +51,7 @@
             "WEB"
         ],
         "badges": [
-            {
-                "name": "GDE",
-                "description": "Android Google Developer Expert",
-                "link": "https://developers.google.com/experts/people/yonatan-levin.html"
-            }
+
         ],
         "socials": [
             {
@@ -119,7 +115,7 @@
         "company": "MozDevz",
         "country": "Maputo, Moçamabique",
         "photoUrl": "/images/people/armando.jpg",
-        "shortBio": "",
+        "shortBio": "Desenvolvedor web apaixonado por php e tecnologias baseadas em javascript",
         "bio": "",
         "tags": [
             "Cloud",
@@ -145,6 +141,58 @@
         "company": "Freelance Developer",
         "country": "Maputo, Moçamabique",
         "photoUrl": "/images/people/banze.jpg",
+        "shortBio": "designer e desenvolvedor móvel apaixonado por android e java.",
+        "bio": "",
+        "tags": [
+            "Android",
+            "Design",
+            "Java"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/102117493667558776856"
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "featured": true,
+        "name": "Osvaldo Cossa",
+        "title": "Software Developer, Analista, Doc",
+        "company": "Seven IT",
+        "country": "Maputo, Moçamabique",
+        "photoUrl": "/images/people/cossa.jpg",
+        "shortBio": "Analista, consultor e desenvolvedor impulsionador do Grails Framework em Moçambique",
+        "bio": "",
+        "tags": [
+            "Grails",
+            "Groovy",
+            "Java"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "dacebook",
+                "name": "facebook",
+                "link": "https://www.facebook.com/osvaldofcossa"
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": true,
+        "name": "José Pedro Dava",
+        "title": "Software Developer",
+        "company": "Freelance Developer",
+        "country": "Maputo, Moçamabique",
+        "photoUrl": "/images/people/dava.jpg",
         "shortBio": "",
         "bio": "",
         "tags": [
@@ -160,6 +208,111 @@
                 "icon": "gplus",
                 "name": "Google+",
                 "link": "https://plus.google.com/102117493667558776856"
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "featured": true,
+        "name": "Elton Laice",
+        "title": "Mobile Developer",
+        "company": "Laice.org",
+        "country": "Maputo, Moçamabique",
+        "photoUrl": "/images/people/laice.jpg",
+        "shortBio": "Desenvolvedor móvel (iOS e Android), actua como analista de sistemas, tem se especializado em interface e usabilidade para dispositivos móveis",
+        "bio": "",
+        "tags": [
+            "Ionic",
+            "Javascript",
+            "AngularJS  "
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/eltontomaslaice"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://codelaice.org "
+            }
+        ]
+    }
+    ,
+    "9": {
+        "id": 9,
+        "featured": true,
+        "name": "Dário Mungoi",
+        "title": "Software Engineer",
+        "company": "Moovi",
+        "country": "Maputo,Moçambique",
+        "photoUrl": "/images/people/dm.jpg",
+        "shortBio": " Google Developer Expert em Android e Design Sprint Master  que adora escrever e falar sobre android",
+        "bio": "",
+        "tags": [
+            "Android",
+            "Design Sprint",
+            "WEB"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Android Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/yonatan-levin.html"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/levin.yonatan"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/parahall"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+YonatanLevin"
+            }
+        ]
+    },
+
+    "10": {
+        "id": 10,
+        "featured": true,
+        "name": "Osvaldo Maria",
+        "title": "Mobile Developer",
+        "company": "GDG Maputo",
+        "country": "Maputo, Moçamabique",
+        "photoUrl": "/images/people/Osvaldo.jpg",
+        "shortBio": "just a Javascript addict",
+        "bio": "",
+        "tags": [
+            "NodeJS",
+            "Javascript",
+            "AngularJS ",
+            "progressive web apps"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/osvaldo.maria"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://coisasdeumdev.wordpress.com "
             }
         ]
     }
