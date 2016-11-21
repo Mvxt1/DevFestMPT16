@@ -7,25 +7,7 @@
   },
   "139": {
     "id": 139,
-    "title": "Arquitectura de aplicações Android (Trilha 1)",
-    "description": "",
-    "language": "Portugues"
-  },
-  "191": {
-    "id": 191,
-    "title": "Manequim challenge",
-    "description": "",
-    "language": "Portugues"
-  },
-  "192": {
-    "id": 192,
-    "title": "Tornando a web mais eficiente com Progressive Web Apps",
-    "description": "",
-    "language": "Portugues"
-  },
-  "193": {
-    "id": 193,
-    "title": "Desenvolvendo Aplicações Hibridas com Ionic Framework",
+    "title": "Orientações de Material Design Motion e a sua implentação no Android (Trilha 1)",
     "description": "",
     "language": "Portugues"
   },
@@ -50,8 +32,8 @@
   },
   "135": {
     "id": 135,
-    "title": "Pausa para o almoço",
-    "description": "Saco vazio nao aguenta em pe pois nao!",
+    "title": "Morning coffee",
+    "description": "Coffeeeeeee!",
     "image": "/images/backgrounds/morning.jpg"
   },
   "134": {
@@ -62,7 +44,7 @@
   },
   "133": {
     "id": 133,
-    "title": "Pausa para o almoco",
+    "title": "Intervalo",
     "description": "Pequeno intervalo para bater-papo com os outros desenvolvedores e relaxar.",
     "image": "/images/backgrounds/2015_2.jpg"
   },
@@ -74,33 +56,19 @@
   },
   "131": {
     "id": 131,
-    "title": "Material Design Motion guidelines e sua implementação no Android (Trilha 1)",
+    "title": "Introducao à Web Apps Progressivas",
     "description": "",
     "language": "Portugues",
-    "speakers":[
-      5
-    ]
-  },
-  "190": {
-    "id": 190,
-    "title": "Hi Framework. Um framework minimalista baseado no angularJS Java EE (Trilha 2)",
-    "description": "",
-    "language": "Portugues",
-    "speakers":[
-      2
-    ]
+    "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained"
   },
   "130": {
     "id": 130,
-    "title": "Introdução ao Angular2 (Trilha 2)",
-    "description": "Vamos aprender a utilizar o Angular2.",
+    "title": "Firebase para Web - Codelab (Trilha 2)",
+    "description": "Vamos aprender a utilizar o firebase numa aplicação Web.",
     "language": "Português",
     "complexity": "Intermediário",
-    "speakers":[
-      4
-    ],
     "tags": [
-      "Web", "Angular2"
+      "Web", "Javascript", "Firebase"
     ]
   },
   "129": {
@@ -224,8 +192,8 @@
   },
   "119": {
     "id": 119,
-    "title": "Sessão de Code in the Dark",
-    "description": "20 minutos, notepad e a imagem de um website. Isso é tudo o que você tem para desenhar uma réplica do website da imagem. A réplica mais semelhante à imagem ganha o prêmio.",
+    "title": "Code in the Dark Session",
+    "description": "15 minutos, notepad e a imagem de um website. Isso é tudo o que você tem para desenhar uma réplica do website da imagem. A réplica mais semelhante à imagem ganha o prêmio.",
     "tags":[
       "Web"]
   },
@@ -350,7 +318,7 @@
     "title": "Coffee break",
     "description": "Cooooffeeeeee",
     "language": "Portugues",
-    "image": "/images/backgrounds/morning.jpg"
+    "presentation":"https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you"
   },
   "108": {
     "id": 108,
@@ -368,15 +336,15 @@
   },
   "107": {
     "id": 107,
-    "title": "Deploy de aplicações Java EE no google Platform (Trilha 2)",
+    "title": "Hi Framework (Trilha 2)",
     "description": "Hi é um framework que traz a simplicidade do AngularJS para o Java Enterprise Edition.",
     "language": "Portugues",
     "tags":["Web", "Java EE", "AngularJS"]
   },
   "106": {
     "id": 106,
-    "title": "Discurso Final",
-    "description": "",
+    "title": "Fim do Evento",
+    "description": "Saída dos participantes",
     "language": "Portugues"
     
   },
