@@ -115,7 +115,7 @@
         "company": "MozDevz",
         "country": "Maputo, Moçamabique",
         "photoUrl": "/images/people/armando.jpg",
-        "shortBio": "",
+        "shortBio": "Desenvolvedor web apaixonado por php e tecnologias baseadas em javascript",
         "bio": "",
         "tags": [
             "Cloud",
@@ -141,7 +141,7 @@
         "company": "Freelance Developer",
         "country": "Maputo, Moçamabique",
         "photoUrl": "/images/people/banze.jpg",
-        "shortBio": "",
+        "shortBio": "designer e desenvolvedor móvel apaixonado por android e java.",
         "bio": "",
         "tags": [
             "Android",
@@ -167,7 +167,7 @@
         "company": "Seven IT",
         "country": "Maputo, Moçamabique",
         "photoUrl": "/images/people/cossa.jpg",
-        "shortBio": "",
+        "shortBio": "Analista, consultor e desenvolvedor impulsionador do Grails Framework em Moçambique",
         "bio": "",
         "tags": [
             "Grails",
@@ -219,7 +219,7 @@
         "company": "Laice.org",
         "country": "Maputo, Moçamabique",
         "photoUrl": "/images/people/laice.jpg",
-        "shortBio": "",
+        "shortBio": "Desenvolvedor móvel (iOS e Android), actua como analista de sistemas, tem se especializado em interface e usabilidade para dispositivos móveis",
         "bio": "",
         "tags": [
             "Ionic",
@@ -241,48 +241,17 @@
                 "link": "http://codelaice.org "
             }
         ]
-    },
+    }
+    ,
     "9": {
         "id": 9,
-        "featured": true,
-        "name": "Osvaldo Maria",
-        "title": "Mobile Developer",
-        "company": "GDG Maputo",
-        "country": "Maputo, Moçamabique",
-        "photoUrl": "/images/people/Osvaldo.jpg",
-        "shortBio": "",
-        "bio": "",
-        "tags": [
-            "NodeJS",
-            "Javascript",
-            "AngularJS ",
-            "progressive web apps"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "facebook",
-                "name": "Facebook",
-                "link": "https://www.facebook.com/osvaldo.maria"
-            },
-            {
-                "icon": "website",
-                "name": "Website",
-                "link": "http://coisasdeumdev.wordpress.com "
-            }
-        ]
-    },
-    "10": {
-        "id": 10,
         "featured": true,
         "name": "Dário Mungoi",
         "title": "Software Engineer",
         "company": "Moovi",
         "country": "Maputo,Moçambique",
         "photoUrl": "/images/people/dm.jpg",
-        "shortBio": "...",
+        "shortBio": " Google Developer Expert em Android e Design Sprint Master  que adora escrever e falar sobre android",
         "bio": "",
         "tags": [
             "Android",
@@ -311,6 +280,39 @@
                 "icon": "gplus",
                 "name": "Google+",
                 "link": "https://plus.google.com/+YonatanLevin"
+            }
+        ]
+    },
+
+    "10": {
+        "id": 10,
+        "featured": true,
+        "name": "Osvaldo Maria",
+        "title": "Mobile Developer",
+        "company": "GDG Maputo",
+        "country": "Maputo, Moçamabique",
+        "photoUrl": "/images/people/Osvaldo.jpg",
+        "shortBio": "just a Javascript addict",
+        "bio": "",
+        "tags": [
+            "NodeJS",
+            "Javascript",
+            "AngularJS ",
+            "progressive web apps"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/osvaldo.maria"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "http://coisasdeumdev.wordpress.com "
             }
         ]
     }
